@@ -95,11 +95,11 @@ def generate_feedback_results(ip_query):
         else: # query success
             data = info['data']
 
-            title = u'%s 位于 %s %s %s' % (data['ip'], data['country'],
-                    data['region'], data['city'])
+            title = data['ip']
 
             if data['isp']:
-                subtitle = u'运营商: %s %s' % (data['area'], data['isp'])
+                subtitle = u'运营商: %s %s %s %s' % (data['country'],
+                    data['region'], data['city'], data['isp'])
             else:
                 subtitle = None
 
