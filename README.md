@@ -3,7 +3,7 @@ Intro
 
 Alfred 2/3 workflow: 根据淘宝地址库来查询 IP 地址信息
 
-Taobao IP 地址库: http://ip.taobao.com/index.php
+Taobao IP 地址库: http://ip.taobao.com/index.html
 
 Usage
 =====
