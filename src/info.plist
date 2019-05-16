@@ -106,7 +106,7 @@ def generate_feedback_results(ip_query):
             kwargs = {
                 'title': title,
                 'subtitle': subtitle,
-                'arg': '%s\n%s' % (title, subtitle)
+                'arg': '%s\n%s' % (title, subtitle) # using this if you just want to copy ip address -> 'arg': '%s' % (title)
             }
 
         fb.addItem(**kwargs)
