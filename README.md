@@ -15,8 +15,6 @@ Alfred 框中输入 lip, 参数可以为:
     lip 199.91.73.222,178.79.131.110  # 查询指定的多个 IP 地址
     lip 199.91.73.222178.79.131.110  # 查询指定的多个 IP 地址
 
-Demo
-=====
 
 ![](http://sinarus.oss-cn-shanghai.aliyuncs.com/ipic/2019-05-16-sample-01.jpg)
 ![](http://sinarus.oss-cn-shanghai.aliyuncs.com/ipic/2019-05-16-sample-3.jpg)
